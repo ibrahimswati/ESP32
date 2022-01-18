@@ -2,9 +2,9 @@
 
 
 
-<img src="https://github.com/ibrahimswati/ESP32/blob/main/IoTDisplay.png">
+<img src="https://github.com/ibrahimswati/ESP32/blob/main/display.png">
 
-<img src="https://github.com/ibrahimswati/ESP32/blob/main/TempHumidDisplay.png">
+<img src="https://github.com/ibrahimswati/ESP32/blob/main/thdisplay.png">
 
 <img src="https://github.com/ibrahimswati/ESP32/blob/main/ConnectWifi.png">
 
