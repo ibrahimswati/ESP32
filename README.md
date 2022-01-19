@@ -12,6 +12,11 @@ IoT connected to WiFi:
 
 <img src="https://github.com/ibrahimswati/ESP32/blob/main/ConnectWifi.png">
 
+Generating private key, public key, and certificate using the ATECC608A (TrustCustom) crypto chip to 
+connect to AWS using their MQTT client.
+
+<img src="https://github.com/ibrahimswati/ESP32/blob/main/certificate.png">
+
 IoT sending data to AWS server 
 
 <img src="https://github.com/ibrahimswati/ESP32/blob/main/IoTSendingData.png">
