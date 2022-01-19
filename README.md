@@ -1,4 +1,4 @@
-# ESP32 microcontroller with DHT22, ECC608, & 16x2 LCD
+# ESP32 microcontroller with DHT22, ATECC608A, & 16x2 LCD
 
 Displaying text on first line and timer on second:
 
@@ -13,7 +13,9 @@ IoT connected to WiFi:
 <img src="https://github.com/ibrahimswati/ESP32/blob/main/ConnectWifi.png">
 
 Generating private key, public key, and certificate using the ATECC608A (TrustCustom) crypto chip to 
-connect to AWS using their MQTT client:
+connect to AWS using their MQTT client
+
+ATECC608A integrates ECDH (Elliptic Curve Diffie Hellman) security protocol
 
 <img src="https://github.com/ibrahimswati/ESP32/blob/main/certificate.png">
 
